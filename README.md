@@ -1,4 +1,4 @@
-[Curriculum Vitae](Zheng_CV_11-12-2026)
+[Curriculum Vitae](Zheng_CV_11-12-2026.pdf)
 
 <!--
 **szhengczii/szhengczii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
